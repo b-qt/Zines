@@ -1,7 +1,6 @@
 # Zines
 Tutorials in the form of quick sketches   
 
-###  
 <p style="display:flex;">
     <img src="https://github.com/b-qt/Zines/blob/main/basics/starting_a_project.jpeg"; 
          height=150px;
