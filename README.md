@@ -1,2 +1,4 @@
 # Zines
-Tutotiarls in the form so quick sketches
+Tutorials in the form so quick sketches
+Topics
+- Starting a new project
